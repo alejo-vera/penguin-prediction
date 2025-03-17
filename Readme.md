@@ -1,4 +1,5 @@
 ## Análisis sobre la Base de Datos de Pinguinos Palmer
+Ir al archivo .ipynb para ver los resultados obtenidos
 Para este proyecto utilicé la base de datos: https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data, que es de acceso público.
 La información es de una investigación científica de pinguinos en la Antártica.
 
